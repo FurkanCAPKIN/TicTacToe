@@ -2,7 +2,9 @@ Topics I have learned while working on this project:
 
 1. Enum
 2. UIAlertController
-3. preferredStyle: .actionSheet (the window will look like a page opening at the bottom)
+3. Vertical stack view and horizontal stack view
+4. Connecting multiple buttons to the same action.
+5. preferredStyle: .actionSheet (the window will look like a page opening at the bottom)
 
  
 

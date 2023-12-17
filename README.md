@@ -2,6 +2,7 @@ Topics I have learned while working on this project:
 
 1. Enum
 2. UIAlertController
+3. preferredStyle: .actionSheet (the window will look like a page opening at the bottom)
 
  
 
